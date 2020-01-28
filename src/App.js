@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Meldonium1 lfllf
+          int = 5;
+          print a;
         
         <a
           className="App-link"
